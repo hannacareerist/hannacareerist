@@ -7,20 +7,20 @@
 </div>
 <p align="center"> (Open for Learning)</p>  --->  
 
-<h2 align="center"> 👨‍💻 Whoami</h2>
+<h2 align="center"> 👨‍💻 Automation QA Engineer</h2>
 <p align="center">
   <samp>Hello! My name is John Johnson. I'm AUTOMATION QA ENGINEER with more that 2 years of experience in QA, proficient in testing web and mobile applications. Capable of creating test automation scenarios for web from scratch using Selenium WebDriver, Python, Behave and Allure. Proficient in different types of software testing: functional, regression, smoke, compatibility, GUI. Qualified in test documentation creation and maintenance: Test Cases (creation and execution), Check Lists, issue reporting and tracking.
 
   </samp>
   <br> <br>
- <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://github.com/gauravkhuraana" />
-    <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" alt="https://github.com/gauravkhuraana" />
+
   
 </p>
 <hr>
 <h2 align="center"> 👨‍💻 An Easy way to connet/remember me</h2>
 <p align="center" align='right'>
-  <a align="center" target="_blank"href="[https://linktr.ee/gauravkhurana](https://www.linkedin.com/in/hanna-olefirenko-464aba20a/)"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
+  <a align="center" target="_blank"href="[[https://www.linkedin.com/in/hanna-olefirenko-464aba20a/]
+                                         (https://www.linkedin.com/in/hanna-olefirenko-464aba20a/)"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
 <hr>
 <h2 align="center">💬 Technical Blog + Youtube Channel for sharing learning related to Testing and mobile Apps</h2>
 <p align="center" align='right'>
