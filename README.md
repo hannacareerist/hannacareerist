@@ -1,4 +1,4 @@
-@@ -1,19 +1,19 @@
+
 ### Hi there 👋
 <!--
 <h1 align="center"> 👋 </h1>
@@ -13,7 +13,6 @@
 
   </samp>
   <br> <br>
-  <img src="https://img.shields.io/badge/Tester-FF9522?style=for-the-badge&logo=tester&logoColor=white" alt="https://github.com/gauravkhuraana" />
  <img src="https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white" alt="https://github.com/gauravkhuraana" />
     <img src="https://img.shields.io/badge/Youtuber-FF9522?style=for-the-badge&logo=youtube&logoColor=white" alt="https://github.com/gauravkhuraana" />
   
@@ -21,7 +20,7 @@
 <hr>
 <h2 align="center"> 👨‍💻 An Easy way to connet/remember me</h2>
 <p align="center" align='right'>
-  <a align="center" target="_blank"href="https://linktr.ee/gauravkhurana"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
+  <a align="center" target="_blank"href="[https://linktr.ee/gauravkhurana](https://www.linkedin.com/in/hanna-olefirenko-464aba20a/)"><img src="https://img.shields.io/badge/lets learn from each other -     linktr.ee/gauravkhurana   -brown" /></a>&nbsp;&nbsp;&nbsp;
 <hr>
 <h2 align="center">💬 Technical Blog + Youtube Channel for sharing learning related to Testing and mobile Apps</h2>
 <p align="center" align='right'>
