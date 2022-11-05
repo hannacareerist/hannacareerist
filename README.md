@@ -15,7 +15,7 @@
   <br> <br>
 
   
-<h2 align="center"> 🔭 Technical Skills</h2>
+<h2 align="center">   Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"/>
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
